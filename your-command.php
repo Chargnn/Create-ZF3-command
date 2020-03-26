@@ -1,5 +1,7 @@
 <?php
 
+// Run using php your-command.php your-command-name
+
 require __DIR__ . '/../vendor/autoload.php';
 
 use Application\Controller\LoginController;
